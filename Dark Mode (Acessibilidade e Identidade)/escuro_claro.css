@@ -1,0 +1,18 @@
+body.dark-mode {
+  background-color: #1a1a1a;
+  color: #f0f0f0;
+}
+
+.intro {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.texto-intro {
+  text-align: justify;
+}
+
+button.modos {
+  display: block;
+  margin: 20px auto;
+}
